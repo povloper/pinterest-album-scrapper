@@ -1,0 +1,13 @@
+{
+    "name": "@povloper/pinterest-album-scrapper",
+    "version": "2.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "GNU GPL 2.0",
+    "repository": "povloper/pinterest-album-scrapper",
+    "main": "index.js",
+    "keywords": [
+        "pinterest",
+        "downloader",
+        "scrapper"
+    ]
+}
